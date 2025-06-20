@@ -2,7 +2,7 @@
 
 __author__ = """Matej Benes"""
 __email__ = 'mate.benes@gmail.com'
-__version__ = '0.1.2'
+__version__ = '0.1.0'
 
 from . import measures
 from .measures import clm_4ft_int_functions
