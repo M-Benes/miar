@@ -9,12 +9,20 @@ Welcome to miar's documentation!
    installation
    usage
    modules
-   contributing
    authors
    history
+   index
 
-Indices and tables
-==================
 * :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+
+=====
+Modules
+=====
+.. automodule:: miar.measures
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+
+
+

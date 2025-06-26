@@ -6,9 +6,6 @@ miar
 .. image:: https://img.shields.io/pypi/v/miar.svg
         :target: https://pypi.python.org/pypi/miar
 
-.. image:: https://img.shields.io/travis/M-Benes/miar.svg
-        :target: https://travis-ci.com/M-Benes/miar
-
 .. image:: https://readthedocs.org/projects/miar/badge/?version=latest
         :target: https://miar.readthedocs.io/en/latest/?version=latest
         :alt: Documentation Status
