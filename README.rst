@@ -10,7 +10,11 @@ miar
         :target: https://miar.readthedocs.io/en/latest/?version=latest
         :alt: Documentation Status
 
+.. image:: https://img.shields.io/pypi/l/miar.svg
+        :target: https://pypi.org/project/miar/
 
+.. image:: https://img.shields.io/pypi/wheel/miar.svg
+        :target: https://pypi.org/project/miar/
 
 
 A Python project for interestingness measures of association rules
